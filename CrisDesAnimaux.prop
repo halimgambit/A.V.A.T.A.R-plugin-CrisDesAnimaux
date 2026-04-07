@@ -1,0 +1,36 @@
+{
+  "modules": { 
+    "CrisDesAnimaux": {
+      "version": "1.0",
+      "name": "cris-des-animaux",
+      "animaux": {
+        "chien": "https://universal-soundbank.com/sounds/70.mp3",
+        "blaireau": "https://universal-soundbank.com/sounds/1843.mp3",
+        "chauve_souris": "https://universal-soundbank.com/sounds/2283.mp3",
+        "fennec": "https://universal-soundbank.com/sounds/13102.mp3",
+        "herisson": "https://universal-soundbank.com/sounds/13133.mp3",
+        "chat": "https://universal-soundbank.com/sounds/987.mp3",
+        "ane": "https://universal-soundbank.com/sounds/1829.mp3",
+        "cheval": "https://universal-soundbank.com/sounds/61.mp3",
+        "elephant": "https://universal-soundbank.com/sounds/1264.mp3",
+        "agneau": "https://universal-soundbank.com/sounds/7340.mp3",
+        "bouc": "https://universal-soundbank.com/sounds/7343.mp3",
+        "chevre": "https://universal-soundbank.com/sounds/7341.mp3",
+        "mouton": "https://universal-soundbank.com/sounds/22480.mp3",
+        "chameau": "https://universal-soundbank.com/sounds/1213.mp3",
+        "vache": "https://universal-soundbank.com/sounds/101.mp3",
+        "singe": "https://universal-soundbank.com/sounds/1296.mp3",
+        "canard": "https://universal-soundbank.com/sounds/146.mp3",
+        "poule": "https://universal-soundbank.com/sounds/1230.mp3",
+        "poussin": "https://universal-soundbank.com/sounds/2440.mp3",
+        "ours": "https://universal-soundbank.com/sounds/50.mp3",
+        "tigre": "https://universal-soundbank.com/sounds/51.mp3",
+        "abeille": "https://universal-soundbank.com/sounds/1688.mp3",
+        "cigale": "https://universal-soundbank.com/sounds/110.mp3"
+      },
+      "rules": {
+        "getCry": ["animal", "animal cry"]
+      }
+    }
+  }
+}	
