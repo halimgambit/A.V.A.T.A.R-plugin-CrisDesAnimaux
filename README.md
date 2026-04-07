@@ -5,6 +5,6 @@ Avatar joue les son d'animaux
 
 - réponse aléatoire avec son d'un animal:  "Écoute bien", "Voici le son", "Tu reconnais cet animal", "Attention", "Devine l'animal".
 
-- le régle est: fait/mets/joue Le cris de l'animal {chien ou chat, ect....}, fait/mets/joue Le son de l'animal {chien ou chat, ect....}
+- la régle est: fait/mets/joue Le cris de l'animal {chien ou chat, ect....}, fait/mets/joue Le son de l'animal {chien ou chat, ect....}
 
 - Version 1.0
