@@ -23,7 +23,7 @@ The `CrisDesAnimaux` plugin relies solely on the system's available languages.
     <td style="border: none;"><img src="CrisDesAnimaux/assets/images/CrisDesAnimaux.png" alt="CrisDesAnimaux Logo" width="120"></td>
     <td style="border: none;">
       <h1 style="margin: 0;color: brown;">CrisDesAnimaux</h1>
-      <h3 style="margin: 0;">Give Signs</h3>
+      <h3 style="margin: 0;">Get Sound Animals</h3>
     </td>
   </tr>
 </table>
