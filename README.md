@@ -4,7 +4,6 @@
 
 - 70 son d'animaux, domestique , sauvage
 
-"C:\avatar\Server\re
  ## 🎯 Usage
 Commandes :
 - quel est est le son/le cris du cheval, joue le son du chameau
