@@ -7,7 +7,7 @@
  ## 🎯 Usage
 Commandes :
 - quel est est le son/le cris du cheval, joue le son du chameau
-- depuis sur n'importe quel client jouer des son d'animaux
+- depuis et sur n'importe quel client jouer des son d'animaux
 
 ## Multi-room
 
