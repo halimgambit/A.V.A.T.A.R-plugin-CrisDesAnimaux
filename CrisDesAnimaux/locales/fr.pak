@@ -1,0 +1,7 @@
+{
+  "speech": {
+    "sound": "Écoute bien|Voici le son|Ouvre grand tes oreilles",
+    "noFile": "Je ne connais pas cet animal",
+    "errorAccess": "Désolé, je n'ai pas pu accéder au dossier des animaux."
+  }
+}

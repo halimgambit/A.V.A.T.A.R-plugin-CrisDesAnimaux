@@ -1,0 +1,1 @@
+{"modules":{"CrisDesAnimaux":{"version":"1.0","name":"cris-des-animaux","rules":{"getCry":["animal","cry","sound"]},"active":true}}}

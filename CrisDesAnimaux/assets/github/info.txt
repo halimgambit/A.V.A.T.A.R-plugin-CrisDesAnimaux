@@ -1,0 +1,5 @@
+Cris des animaux
+Permet à A.V.A.T.A.R. de reconnaître et reproduire les cris de nombreux animaux directement à la voix.
+Découvrez une large collection de sons animaliers, des animaux domestiques aux espèces sauvages, accessibles instantanément par simple commande vocale.
+Les cris peuvent être diffusés sur n'importe quel client A.V.A.T.A.R., vous permettant de faire retentir les sons dans la pièce de votre choix ou sur l'ensemble de votre installation.
+Un plugin ludique et éducatif, idéal pour divertir toute la famille, éveiller la curiosité des enfants ou simplement s'amuser avec votre assistant vocal.

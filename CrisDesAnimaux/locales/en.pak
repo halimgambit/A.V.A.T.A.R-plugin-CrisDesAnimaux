@@ -1,0 +1,7 @@
+{
+  speech: {
+    "sound": ["Listen carefully", "Here is the sound", "Open your ears wide"],
+    "noFile": "I do not know this animal",
+    "errorAccess": "Sorry, I couldn’t access the animal folder."
+  }
+}
